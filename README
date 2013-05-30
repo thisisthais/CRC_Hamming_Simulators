@@ -1,0 +1,7 @@
+This was a project for my CS281 Networks and Cryptography class,
+taken second semester of my freshamn year (Spring 2013).
+
+The poject contains several classes written by my professor, Scott Kaplan,
+and modified by me. The CRCDataLinkLayer and HammingDataLinkLayer classes
+were writen by me, based off of simpler Data Link Layers written by
+Professor Kaplan.
